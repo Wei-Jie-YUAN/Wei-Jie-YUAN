@@ -29,14 +29,13 @@
 
 <table>
   
-<tr><td>
+<tr><td width="900">
 
 ### 🤺 About Me
 
-<img align="right" width="900" src="" />
 
 <p>&emsp;&emsp;嗨，我是Wei-Jie YUAN。热爱编程、读书、运动、旅行…… </p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好……</p>
 
 
 
@@ -49,7 +48,7 @@
 
 ## 🏢 Education Experience
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Wei-Jie-YUAN/Wei-Jie-YUAN@main/assets/images/GRCBank.png" />
+<img align="right" width="200" src="assets/images/scut_logo_name.png" />
 
 <div>
   <span style="display:inline-block; width:300px;">
@@ -63,7 +62,7 @@
 
 <br>
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<img align="right" width="200" src="assets/images/国科大标准Logo横式一（蓝色）.png" />
 
 <div>
   <span style="display:inline-block; width:300px;">
