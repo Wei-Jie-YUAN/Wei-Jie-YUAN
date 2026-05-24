@@ -34,8 +34,9 @@
 ### 🤺 About Me
 
 
-<p>&emsp;&emsp;嗨，我是Wei-Jie YUAN。热爱编程、读书、运动、旅行…… </p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好……</p>
+<p>&emsp;&emsp;Hi, I'm Wei-Jie Yuan. I love programming, reading, sports, traveling... </p>
+<p>&emsp;&emsp;We are making this world a better place...</p>
+
 
 
 
@@ -52,13 +53,13 @@
 
 <div>
   <span style="display:inline-block; width:300px;">
-    <a href="https://www.scut.edu.cn/">华南理工大学</a>
+    <a href="https://www.scut.edu.cn/">South China University of Technology</a>
   </span>
   📌 2022.09 - 2026.06
 </div>
 
-- 学士
-- 信息工程
+- Bachelor
+- Information Engineering
 
 <br>
 
@@ -66,13 +67,13 @@
 
 <div>
   <span style="display:inline-block; width:300px;">
-    <a href="https://ucas.ac.cn/">中国科学院大学</a>
+    <a href="https://ucas.ac.cn/">University of Chinese Academy of Sciences</a>
   </span>
   📌 2026.09 - (2031.06)
 </div>
 
-- 博士
-- 信息与信号处理
+- PhD student
+- Information and Signal Processing
 
 
   <!-- for beauty 留个空行好看点 -->
