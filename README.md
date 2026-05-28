@@ -115,5 +115,3 @@
   <img src="/profile-night-rainbow.svg" />
 </picture>
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Wei-Jie-YUAN)
